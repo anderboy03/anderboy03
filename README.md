@@ -1,5 +1,5 @@
 ## Olá 👋
-Me chamo Anderson Ribas, sou estudante de Análise e Desenvolvimento de Sistema, estou em busca de oportunidades de aprendizado
+Me  chamo Anderson Ribas, sou estudante de Análise e Desenvolvimento de Sistema, estou em busca de oportunidades de aprendizado
 e crescimento profissional.
 
 ### Estou aprendendo:
