@@ -1,4 +1,8 @@
-## Olá 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Anderson!;" />
+</h1>
+
+
 Me  chamo Anderson Ribas, sou estudante de Análise e Desenvolvimento de Sistema, estou em busca de oportunidades de aprendizado
 e crescimento profissional.
 
