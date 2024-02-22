@@ -2,6 +2,15 @@
 Me  chamo Anderson Ribas, sou estudante de Análise e Desenvolvimento de Sistema, estou em busca de oportunidades de aprendizado
 e crescimento profissional.
 
+<div align="center">
+<img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+  
+   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
+  <!-- <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
+  
+</div>
+
+
 ### Estou aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
