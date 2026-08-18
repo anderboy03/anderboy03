@@ -51,7 +51,8 @@ e crescimento profissional.
 </h1>
 
           
-![snake gif](https://github.com/anderboy03/anderboy03/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anderson123/anderson123/blob/output/snake.svg)
+
 
 
           
