@@ -1,20 +1,27 @@
-name: Generate Snake
+name: Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite
+  workflow_dispatch:       # permite rodar manualmente
+  push:
+    branches:
+      - main               # roda quando você faz commit na branch main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
-          github_user_name: anderboy03   # coloque seu usuário aqui
+          github_user_name: anderboy03  # coloque seu usuário exato aqui
           outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+
+      - name: Push Snake to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
